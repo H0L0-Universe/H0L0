@@ -7,7 +7,7 @@
 
 #### [b00k.h0l0.io](https://b00k.h0l0.io/) - Live Story Writing Experiment Sets World Record for Story Generation
 
-#### [RELEASES](https://github.com/H0L0-Universe/H0L0/releases) - Latest: v2.3.2
+#### [RELEASES](https://github.com/H0L0-Universe/H0L0/releases) - Latest: v3.1.1
 
 ![image/jpeg](https://cdn-uploads.huggingface.co/production/uploads/676fe08e1cfc02202a664bce/oeyw74eBjdOR8A_ynFBdK.jpeg)
 
