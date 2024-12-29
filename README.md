@@ -9,7 +9,7 @@
 
 #### [RELEASES](https://github.com/H0L0-Universe/H0L0/releases) - Latest: v2.3.2
 
-![Fwxf-zYI_400x400.jpg](https://cdn-uploads.huggingface.co/production/uploads/676fe08e1cfc02202a664bce/pnryp0a16O3Bz5hei5iLY.jpeg)
+![image/jpeg](https://cdn-uploads.huggingface.co/production/uploads/676fe08e1cfc02202a664bce/oeyw74eBjdOR8A_ynFBdK.jpeg)
 
 ### More about model / files available on: [Cr0n3/h0l0-3.4.2-13b-uncen](https://huggingface.co/Cr0n3/h0l0-3.4.2-13b-uncen)
 
